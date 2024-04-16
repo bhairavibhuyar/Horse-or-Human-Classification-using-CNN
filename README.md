@@ -6,4 +6,6 @@ CNN is a supervised machine learning algorithm commonly used for image classific
 
 The model accepts 300x300 images as input and accurately classifies them as either horse or human. Achieving a training accuracy of 0.9722 and a validation accuracy of 0.8789, the output displays uploaded images alongside their predicted classes. <br>
 
+The output prints the uploaded picture along with its predicted class. <br>
+
 Dataset Link: https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
